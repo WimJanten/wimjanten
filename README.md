@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-- 📖 I'm a **ICT & Technology** student and I'm in my **second** semester.
+- 📖 I'm a **ICT & Technology** student and I'm in my **third** semester.
 
-- 🌱 I’m currently practicing **C, C++, C# and Python**
+- 🌱 I’m currently practicing **(embedded) C & C++**
 
 - 📫 How to reach me **jimwanten@outlook.com**
 
