@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-- 📖 I'm a **ICT & Technology** student and I'm in my **third** semester.
+- 📖 I'm a **ICT & Technology** student and I'm in my **sixth** semester.
 
 - 🌱 I’m currently practicing **(embedded) C & C++**
 
